@@ -1,0 +1,15 @@
+.menu-navegação 
+   {
+    width: 80%;
+    margin: auto;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+li {
+    padding: 20px;
+
+}
