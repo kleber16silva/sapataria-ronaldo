@@ -3,6 +3,8 @@
     width: 80%;
     margin: auto;
 }
+.menu-navegação
+
 ul {
     display: flex;
     justify-content: space-evenly;
