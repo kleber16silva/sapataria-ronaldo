@@ -1,17 +1,61 @@
-.menu-navegação 
-   {
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.titulo-da-pagina {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 80;
+    color: maroon;
+}
+
+.menu-navegação {
     width: 80%;
     margin: auto;
 }
-.menu-navegação
 
-ul {
+.menu-navegação ul {
     display: flex;
     justify-content: space-evenly;
-
+    list-style: none;
 }
 
 li {
     padding: 20px;
 
+}
+
+.menu-navegação a {
+    text-decoration: none;
+
+}
+
+.menu-navegação {
+    border-style: solid;
+    border-color:black;
+
+}
+
+
+.listra-1{
+    background-color: blue;
+    height: 20px;
+}
+
+.listra-2{
+    background-color: lightgreen;
+    height: 20px;
+}
+
+.listra-3{
+    background-color:purple;
+    height: 20px;
+}
+
+.subititulo-da-pagina{
+ text-align: center;
+ background: plum; 
+}
+
+.titulo-artigo {
+ text-align: center;
 }
