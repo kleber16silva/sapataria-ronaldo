@@ -6,7 +6,20 @@
     font-size: 100px;
     font-weight: 80;
     color: maroon;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
 }
+
+.eslogan {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 80;
+    color:maroon;
+    margin-top: 0;
+    padding-top: 0;
+}
+
 
 .menu-navegação {
     width: 80%;
@@ -37,25 +50,79 @@ li {
 
 
 .listra-1{
-    background-color: blue;
+    background-color: maroon;
     height: 20px;
 }
 
 .listra-2{
-    background-color: lightgreen;
+    background-color: black;
     height: 20px;
 }
 
 .listra-3{
-    background-color:purple;
+    background-color:gray;
     height: 20px;
 }
 
 .subititulo-da-pagina{
  text-align: center;
- background: plum; 
+ background: gray; 
 }
 
 .titulo-artigo {
  text-align: center;
 }
+
+.banner{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.consertos{
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+.vendas{
+     display: flex;
+     justify-content: space-evenly;
+
+}
+
+.vendas-sapatos{
+    /* width: 5%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+    }
+
+.vendas-bolsas{
+        /* width: 5%; */
+        height: 300px;
+        object-fit: cover;
+        object-position: 5px 60%;
+        }
+
+        .vendas-cintos{
+            /* width: 5%; */
+            height: 250px;
+            object-fit: cover;
+            object-position: 5px 60%;
+            }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
