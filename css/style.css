@@ -15,7 +15,7 @@
     text-align: center;
     font-size: 40px;
     font-weight: 80;
-    color:maroon;
+    color: maroon;
     margin-top: 0;
     padding-top: 0;
 }
@@ -44,85 +44,211 @@ li {
 
 .menu-navegação {
     border-style: solid;
-    border-color:black;
+    border-color: black;
 
 }
 
 
-.listra-1{
+.listra-1 {
     background-color: maroon;
     height: 20px;
 }
 
-.listra-2{
+.listra-2 {
     background-color: black;
     height: 20px;
 }
 
-.listra-3{
-    background-color:gray;
+.listra-3 {
+    background-color: gray;
     height: 20px;
 }
 
-.subititulo-da-pagina{
- text-align: center;
- background: gray; 
+.subititulo-da-pagina {
+    text-align: center;
+    background: gray;
 }
 
 .titulo-artigo {
- text-align: center;
+    text-align: center;
 }
 
-.banner{
+.banner {
     width: 100%;
     height: 300px;
     object-fit: cover;
     object-position: 5px 60%;
 }
 
-.consertos{
+.consertos {
     /* width: 15%; */
     height: 300px;
     object-fit: cover;
     object-position: 5px 60%;
 }
-.vendas{
-     display: flex;
-     justify-content: space-evenly;
+
+.vendas {
+    display: flex;
+    justify-content: space-evenly;
 
 }
 
-.vendas-sapatos{
+.vendas-sapatos {
     /* width: 5%; */
     height: 300px;
     object-fit: cover;
     object-position: 5px 60%;
-    }
+}
 
-.vendas-bolsas{
-        /* width: 5%; */
-        height: 300px;
-        object-fit: cover;
-        object-position: 5px 60%;
-        }
+.vendas-bolsas {
+    /* width: 5%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
 
-        .vendas-cintos{
-            /* width: 5%; */
-            height: 250px;
-            object-fit: cover;
-            object-position: 5px 60%;
-            }
-    
-    
+.vendas-cintos {
+    /* width: 5%; */
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
 
+.costura {
+    /* width: 5%; */
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
 
+.conserto {
+    display: flex;
+    justify-content: space-evenly;
 
+}
 
+.salto {
+    /* width: 5%; */
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
 
+.troca-sola {
+    /* width: 5%; */
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
 
+.forma {
+    /* width: 5%; */
+    height: 250px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
 
+.Cadarço-fivelas {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
 
+.vendas-sapatos {
+    display: flex;
+    justify-content: space-evenly;
 
+}
+
+.duas-cores-fivelas {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.solas-borracha {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.detalhes-furos {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.Mochila-marrom  {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.vendas-bolsas-mochilas-pastas {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.pasta-marrom {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.bolsa-cinto {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.pasta-preto-retro {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.cintos-cores {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.vendas-cintos {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.dois-cintos-1belt {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.cinto-marrom-classico {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
+
+.cinto-cafe-casual {
+    /* width: 15%; */
+    height: 300px;
+    object-fit: cover;
+    object-position: 5px 60%;
+}
 
 
 
